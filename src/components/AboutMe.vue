@@ -40,11 +40,11 @@
           UI + UX Design | Git | Bootstrap | Materialize
         </base-text>
 
-        <v-alert
+        <!-- <v-alert
           outlined
           color="info"
-        >
-          <v-row
+        > -->
+          <!-- <v-row
             v-for="(skill, i) in skills"
             :key="i"
             style="color: #69A1BB;"
@@ -66,8 +66,8 @@
               color="info"
               height="8"
             />
-          </v-row>
-        </v-alert>
+          </v-row> -->
+        <!-- </v-alert> -->
       </v-col>
 
       <v-col
@@ -85,21 +85,21 @@
 
 <script>
   export default {
-    data: () => ({
-      skills: [
-        {
-          name: 'Web Design',
-          value: 80,
-        },
-        {
-          name: 'Web Development',
-          value: 95,
-        },
-        {
-          name: 'JavaScript',
-          value: 90,
-        },
-      ],
-    }),
+    // data: () => ({
+    //   skills: [
+    //     {
+    //       name: 'Web Design',
+    //       value: 80,
+    //     },
+    //     {
+    //       name: 'Web Development',
+    //       value: 95,
+    //     },
+    //     {
+    //       name: 'JavaScript',
+    //       value: 90,
+    //     },
+    //   ],
+    // }),
   }
 </script>
