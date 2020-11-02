@@ -20,7 +20,7 @@
         <base-text class="mb-5">
           <a href="https://neriram.github.io/P1-Hive/">Hive:</a> a game built with HTML, CSS and JS <br>
           <a href="https://p2-real-talk.herokuapp.com">Real Talk:</a> full stack app built with Node, SQL, and SentimAI <br>
-          innervue: full stack app built with React, MongoDB, and Google NLP<br>
+          <a href="https://determined-golick-003a9f.netlify.app">innervue:</a> full stack app built with React, MongoDB, and Google NLP<br>
           bbBook: proof-of-concept baby book app built with Vue and Vuetify
         </base-text>
 
